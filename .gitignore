@@ -259,3 +259,15 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/mysql环境配置/include/mysql/psi
+/mysql环境配置/include/mysql
+/mysql环境配置/include
+/mysql环境配置/lib/mecab
+/mysql环境配置/lib/plugin
+/mysql环境配置/lib/libmysql.dll
+/mysql环境配置/lib/mysqlservices.lib
+/mysql环境配置/lib/mysqlserver.lib
+/mysql环境配置/lib/mysqlclient.lib
+/mysql环境配置/lib/libmysqld.lib
+/mysql环境配置/lib/libmysqld.dll
+/mysql环境配置/lib/libmysql.lib

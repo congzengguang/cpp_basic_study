@@ -89,6 +89,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "标准输出格式化输出
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "文件读写", "文件读写\文件读写.vcxproj", "{4CB48711-9DFC-48ED-8EE5-8D2EFEC152D7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "对象的序列化", "对象的序列化\对象的序列化.vcxproj", "{83464325-D2CE-4121-8A59-53EAC191E602}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -441,6 +443,14 @@ Global
 		{4CB48711-9DFC-48ED-8EE5-8D2EFEC152D7}.Release|x64.Build.0 = Release|x64
 		{4CB48711-9DFC-48ED-8EE5-8D2EFEC152D7}.Release|x86.ActiveCfg = Release|Win32
 		{4CB48711-9DFC-48ED-8EE5-8D2EFEC152D7}.Release|x86.Build.0 = Release|Win32
+		{83464325-D2CE-4121-8A59-53EAC191E602}.Debug|x64.ActiveCfg = Debug|x64
+		{83464325-D2CE-4121-8A59-53EAC191E602}.Debug|x64.Build.0 = Debug|x64
+		{83464325-D2CE-4121-8A59-53EAC191E602}.Debug|x86.ActiveCfg = Debug|Win32
+		{83464325-D2CE-4121-8A59-53EAC191E602}.Debug|x86.Build.0 = Debug|Win32
+		{83464325-D2CE-4121-8A59-53EAC191E602}.Release|x64.ActiveCfg = Release|x64
+		{83464325-D2CE-4121-8A59-53EAC191E602}.Release|x64.Build.0 = Release|x64
+		{83464325-D2CE-4121-8A59-53EAC191E602}.Release|x86.ActiveCfg = Release|Win32
+		{83464325-D2CE-4121-8A59-53EAC191E602}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
