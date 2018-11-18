@@ -121,6 +121,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数组作为参数", "数�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "函数指针c", "函数指针c\函数指针c.vcxproj", "{E51EF63D-B40E-4BEC-B15E-C45EAB33FDEF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "函数指针作为参数", "函数指针作为参数\函数指针作为参数.vcxproj", "{15FCA25B-425A-45A6-928B-D5358B580920}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -601,6 +603,14 @@ Global
 		{E51EF63D-B40E-4BEC-B15E-C45EAB33FDEF}.Release|x64.Build.0 = Release|x64
 		{E51EF63D-B40E-4BEC-B15E-C45EAB33FDEF}.Release|x86.ActiveCfg = Release|Win32
 		{E51EF63D-B40E-4BEC-B15E-C45EAB33FDEF}.Release|x86.Build.0 = Release|Win32
+		{15FCA25B-425A-45A6-928B-D5358B580920}.Debug|x64.ActiveCfg = Debug|x64
+		{15FCA25B-425A-45A6-928B-D5358B580920}.Debug|x64.Build.0 = Debug|x64
+		{15FCA25B-425A-45A6-928B-D5358B580920}.Debug|x86.ActiveCfg = Debug|Win32
+		{15FCA25B-425A-45A6-928B-D5358B580920}.Debug|x86.Build.0 = Debug|Win32
+		{15FCA25B-425A-45A6-928B-D5358B580920}.Release|x64.ActiveCfg = Release|x64
+		{15FCA25B-425A-45A6-928B-D5358B580920}.Release|x64.Build.0 = Release|x64
+		{15FCA25B-425A-45A6-928B-D5358B580920}.Release|x86.ActiveCfg = Release|Win32
+		{15FCA25B-425A-45A6-928B-D5358B580920}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

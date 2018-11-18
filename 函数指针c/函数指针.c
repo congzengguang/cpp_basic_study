@@ -15,9 +15,10 @@ void main() {
 	/*msg();
 	add(1,2);
 	printf("%p,%p", msg, add);*/
+	// 函数指针的增减没有任何意义。
 	void(*p)() = msg;
 	p();
-	int(*pa)(int, int) = add;
+	int(*pa)(int, int) = add; //函数指针的参数名可以忽略。
 	printf("%d", pa(2, 3));
 
 	getchar();
