@@ -143,6 +143,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "指针的优先级", "指�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "指针变量和指针", "指针变量和指针\指针变量和指针.vcxproj", "{C8C3A2FD-63A3-42BB-8892-41983D56C04D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字符串", "字符串\字符串.vcxproj", "{6CB8E1F3-C8CE-451E-9296-3FD03F32ACDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -711,6 +713,14 @@ Global
 		{C8C3A2FD-63A3-42BB-8892-41983D56C04D}.Release|x64.Build.0 = Release|x64
 		{C8C3A2FD-63A3-42BB-8892-41983D56C04D}.Release|x86.ActiveCfg = Release|Win32
 		{C8C3A2FD-63A3-42BB-8892-41983D56C04D}.Release|x86.Build.0 = Release|Win32
+		{6CB8E1F3-C8CE-451E-9296-3FD03F32ACDF}.Debug|x64.ActiveCfg = Debug|x64
+		{6CB8E1F3-C8CE-451E-9296-3FD03F32ACDF}.Debug|x64.Build.0 = Debug|x64
+		{6CB8E1F3-C8CE-451E-9296-3FD03F32ACDF}.Debug|x86.ActiveCfg = Debug|Win32
+		{6CB8E1F3-C8CE-451E-9296-3FD03F32ACDF}.Debug|x86.Build.0 = Debug|Win32
+		{6CB8E1F3-C8CE-451E-9296-3FD03F32ACDF}.Release|x64.ActiveCfg = Release|x64
+		{6CB8E1F3-C8CE-451E-9296-3FD03F32ACDF}.Release|x64.Build.0 = Release|x64
+		{6CB8E1F3-C8CE-451E-9296-3FD03F32ACDF}.Release|x86.ActiveCfg = Release|Win32
+		{6CB8E1F3-C8CE-451E-9296-3FD03F32ACDF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
